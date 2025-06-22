@@ -1,8 +1,8 @@
 import requests
 import base64
 
-CLIENT_ID = 'b6a8287074e94010ae4b318e30a9995c'
-CLIENT_SECRET = '2565b1537ae54e8bb10fce8c21e2492d'
+CLIENT_ID = 'CLIENT_ID'
+CLIENT_SECRET = 'CLIENT_SECRET'
 
 # קבלת access token
 def get_access_token():
